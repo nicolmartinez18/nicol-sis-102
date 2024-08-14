@@ -1,3 +1,4 @@
+#calculadora
 #suma
 def suma(x,y):
     return x + y
@@ -9,4 +10,6 @@ def multiplicacion (x,y):
     return x * y
 #division
 def division(x,y):
-    
+    if y==0:
+        rize 
+    return x / y
