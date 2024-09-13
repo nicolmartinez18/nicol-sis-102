@@ -1,0 +1,10 @@
+# LISTA
+lista= []
+
+#DICCIONARIO
+diccionario={"clave""valor"}
+
+#EJEMPLO
+EST={"Estudiante_1":[100,100,100], "Estudiante_2":[0,0,0]}
+hacer una lista de nombres y que te salga la nota de cada estudiante
+subir todo a git hup
