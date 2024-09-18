@@ -15,17 +15,17 @@ def main():
 
         if eleccion == "1":
             metros = float(input("Ingresa metros: "))
-            kilometros = conversions.metros_a_kilometros(metros)
+            kilometros = funciones_conversion.metros_a_kilometros(metros)
             print(f"{metros} metros es igual a {kilometros} kilómetros")
 
         elif eleccion == "2":
             gramos = float(input("Ingresa gramos: "))
-            kilogramos = conversions.gramos_a_kilogramos(gramos)
+            kilogramos = funciones_conversion.gramos_a_kilogramos(gramos)
             print(f"{gramos} gramos es igual a {kilogramos} kilogramos")
 
         elif eleccion == "3":
             celsius = float(input("Ingresa Celsius: "))
-            fahrenheit = conversions.celsius_a_fahrenheit(celsius)
+            fahrenheit = funciones_conversion.celsius_a_fahrenheit(celsius)
             print(f"{celsius} Celsius es igual a {fahrenheit} Fahrenheit")
 
         elif eleccion == "4":

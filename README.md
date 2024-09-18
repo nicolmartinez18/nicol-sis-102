@@ -2,3 +2,4 @@
 Nicol Martinez SIS- 112 2024 
 Estudio ing. mecatronica
 Me gustan los deportes
+Espero llevarme bien con todos
